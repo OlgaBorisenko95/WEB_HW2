@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+body{
+    background-color: rgb(225, 182, 101);
+}
+a:visited {
+    color: #8F8E8E; /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: #CE242B; 
+   }
+   ul{
+    list-style-type: square;
+}
